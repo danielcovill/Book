@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="dedication.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <rect
+       id="rect52"
+       height="34.395836"
+       width="195.03571"
+       y="90.33631"
+       x="6.8035714" />
+    <rect
+       id="rect46"
+       height="125.86607"
+       width="188.9881"
+       y="88.824405"
+       x="11.717262" />
+    <rect
+       id="rect40"
+       height="107.34524"
+       width="149.3006"
+       y="89.202381"
+       x="30.238095" />
+    <rect
+       id="rect28"
+       height="92.982143"
+       width="193.52381"
+       y="93.738095"
+       x="8.6934524" />
+    <rect
+       id="rect12"
+       height="82.020833"
+       width="142.11905"
+       y="66.145833"
+       x="37.797619" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="1912"
+     inkscape:window-height="1057"
+     inkscape:window-width="1858"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="596.40971"
+     inkscape:cx="894.96355"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:Constantia;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect12);-inkscape-font-specification:Constantia;font-stretch:normal;font-variant:normal;"
+       id="text10"
+       xml:space="preserve" />
+    <text
+       id="text18"
+       y="80.886902"
+       x="29.927305"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
+         y="80.886902"
+         x="29.927305"
+         id="tspan16"
+         sodipodi:role="line">A gift from Dan to Bob and Sarah</tspan></text>
+    <text
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:Constantia;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect28);-inkscape-font-specification:Constantia;font-stretch:normal;font-variant:normal;"
+       id="text26"
+       xml:space="preserve" />
+    <text
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:Constantia;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect40);-inkscape-font-specification:Constantia;font-stretch:normal;font-variant:normal;"
+       id="text38"
+       xml:space="preserve" />
+    <text
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:Constantia;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect46);-inkscape-font-specification:Constantia;font-stretch:normal;font-variant:normal;"
+       id="text44"
+       xml:space="preserve" />
+    <text
+       transform="translate(1.1283275,27.214286)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;white-space:pre;shape-inside:url(#rect52);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text50"
+       xml:space="preserve"><tspan
+         x="6.8027344"
+         y="95.280335"><tspan
+           style="shape-inside:url(#rect52)">I hope you enjoy filling this book in over time. I wanted to give you something </tspan></tspan><tspan
+         x="6.8027344"
+         y="102.33588"><tspan
+           style="shape-inside:url(#rect52)">you could pass on to Anderson, Lyndsey, Ethan, and Elyana, to help them know </tspan></tspan><tspan
+         x="6.8027344"
+         y="109.39143"><tspan
+           style="shape-inside:url(#rect52)">you a little better, and to keep some of your memories for themselves.</tspan></tspan></text>
+  </g>
+</svg>
